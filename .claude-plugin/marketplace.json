@@ -1,0 +1,19 @@
+{
+  "name": "scope-discipline",
+  "description": "Ship integration; ask before exposing surface.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Ship integration; ask before exposing surface.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "scope-discipline",
+      "source": "./plugins/scope-discipline",
+      "description": "Ship integration; ask before exposing surface."
+    }
+  ]
+}
